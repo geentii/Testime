@@ -41,5 +41,4 @@ public class FirstLetterUppercase {
     public static char generateRandomDigit(){
         return generateRandomChar('0','9');
     }
-
 }

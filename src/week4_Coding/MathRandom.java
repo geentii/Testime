@@ -16,7 +16,5 @@ public class MathRandom {
 
         System.out.println("200 u gjet pas " + count + " iterimeve");
 
+        }
     }
-
-    }
-
