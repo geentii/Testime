@@ -19,6 +19,5 @@ public class CatPark {
      cat1.breakThings("Sene");
      cat2.breakThings("Ujin");
      cat3.breakThings("Kablla");
-
     }
 }
